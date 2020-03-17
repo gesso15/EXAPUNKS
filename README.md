@@ -1,2 +1,2 @@
 # EXAPUNKS
-My solutions to a EXAPUNKS puzzles
+My solutions to EXAPUNKS puzzles
